@@ -1,0 +1,13 @@
+{
+  "From": "testtestinet@yandex.ru",
+  "To": [
+    "testtestinet@yandex.ru",
+    "smth@gmail.com"
+  ],
+  "Text": "message.txt",
+  "Subject": "subject-test",
+  "Attachments": [
+    "cat.jpg",
+    "input.json"
+  ]
+}
